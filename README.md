@@ -21,3 +21,10 @@
 - `jsondiffpatch`: 在线 demo 看上去还不错，不过只是单列展示 diff，链接：[https://www.npmjs.com/package/jsondiffpatch](https://www.npmjs.com/package/jsondiffpatch)
   - 体积较大，有 3.x M
 - `json-diff-kit`: 各方面来说也还行，配置也比较丰富，demo 的样式较为普通，不过可以自行配置，链接：[json-diff-kit](https://www.npmjs.com/package/json-diff-kit)
+
+### json preview
+
+- `react-json-pretty`，体积较小，内置了一些样式，也可以自定义样式，这个比较方便，但上一次发布已是好几年前了，[link](https://www.npmjs.com/package/react-json-pretty)
+- `react-json-view-lite`，体积也只有几十kb，内置样式，不过不太好看，也能自定义样式，不过只支持设置类名来自定义样式，可以尝试一下，[link](https://www.npmjs.com/package/react-json-view-lite)
+- `jsoneditor`，样式最符合日常习惯，功能也比较丰富且支持编辑，唯一的缺点就是体积太大，如果不需要担心大小可以使用，[link](https://www.npmjs.com/package/jsoneditor)
+
