@@ -28,3 +28,6 @@
 - `react-json-view-lite`，体积也只有几十kb，内置样式，不过不太好看，也能自定义样式，不过只支持设置类名来自定义样式，可以尝试一下，[link](https://www.npmjs.com/package/react-json-view-lite)
 - `jsoneditor`，样式最符合日常习惯，功能也比较丰富且支持编辑，唯一的缺点就是体积太大，如果不需要担心大小可以使用，[link](https://www.npmjs.com/package/jsoneditor)
 
+### 流程图
+
+- `reactflow`，样式丰富，体积小，star 数量以及下载量多，持续维护中；不过还有个 pro 版本需要仔细看一下用法。[link](https://www.npmjs.com/package/reactflow)
